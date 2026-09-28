@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou o Davi 👋
 
-<!--
-**DaviMarinhoR/DaviMarinhoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação no IFMA (2º período) | Java & Backend | interesse em cibersegurança
 
-Here are some ideas to get you started:
+## 🔭 Atualmente
+- Estudando Java e me aprofundando em Backend (Spring Boot)
+- Explorando fundamentos de Cibersegurança
+- Desenvolvendo meu projeto de pesquisa: um site inspirado no método Pomodoro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- [cadastro-produtos-java](https://github.com/DaviMarinhoR/meus-projetos/blob/main/programacao-java/src/cadastro/produtos/CadastroDeProdutos.java) — sistema de cadastro de produtos em Java
+- [controle-altura-java](https://github.com/DaviMarinhoR/meus-projetos/blob/main/programacao-java/src/controle/altura/ControleDeAltura.java) — projeto de controle de altura em Java
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/davi-marinho-06a2303aa/)
