@@ -8,7 +8,7 @@ Estudante de Ciência da Computação no IFMA (2º período) | Java & Backend | 
 - Desenvolvendo meu projeto de pesquisa: um site inspirado no método Pomodoro
 
 ## 📌 Projetos em destaque
-- [cadastro-produtos-java](https://github.com/DaviMarinhoR/meus-projetos/blob/main/programacao-java/src/cadastro/produtos/CadastroDeProdutos.java) — sistema de cadastro de produtos em Java
+- [cadastro-produtos-java](https://github.com/DaviMarinhoR/cadastro-produtos-java/tree/main/src/cadastro/produtos) — sistema de cadastro de produtos em Java
 - [controle-altura-java](https://github.com/DaviMarinhoR/meus-projetos/blob/main/programacao-java/src/controle/altura/ControleDeAltura.java) — projeto de controle de altura em Java
 
 ## 📫 Contato
